@@ -1,9 +1,9 @@
-I made a egg timer app to boil eggs to perfection depending on how i prefer eggs
+I made a egg timer app to boil eggs to perfection depending on how i prefer to eat
 
 
 
 
-This Project contains:
+## This Project contains:
 
 Swift Collection types - Dictionaries
 
