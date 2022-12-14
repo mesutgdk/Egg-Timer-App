@@ -1,4 +1,5 @@
-I made a beautiful egg timer app to boil eggs to perfection depending on how i prefer eggs
+I made a egg timer app to boil eggs to perfection depending on how i prefer eggs
+
 
 
 
